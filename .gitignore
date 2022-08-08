@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+*.java
+*.css
 # Compiled Object files
 *.slo
 *.lo
